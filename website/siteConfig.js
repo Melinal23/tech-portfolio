@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Melina Lopez', // Title for your website.
     tagline: 'Computer Engineering student at Cal Poly SLO with a curiosity and passion for innovation, programming, optimizing solutions, and delivering clean, tested, and high-quality code to clients and/or end-users.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/headshot.jpeg',
     url: 'https://Melinal23.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/melinalopez21',
+        linkedin: 'melinalopez21',
         twitter: '',
-        github: 'https://github.com/Melinal23',
+        github: 'Melinal23',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
