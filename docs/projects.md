@@ -6,7 +6,7 @@ title: Projects
 ## The Psyche Journey 
 
 <img src="./assets/Cover.png" align="left" width="200" height="200">
-
+![](./assets/None)
 **Description**
 
 Interactive fiction game developed using Inform7.
