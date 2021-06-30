@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
- Hi! I'm Melina (she/her/hers), a Computer Engineering undergrad and Computer Science grad student at Cal Poly with a graduation date of June 2022.
+👋 Hi! I'm Melina (she/her/hers), a Computer Engineering undergrad and Computer Science grad student at Cal Poly with a graduation date of June 2022.
 
 1. Currently seeking full-time positons in front-end development and/or full-stack development.
 1. I am the Publicity Director for Women Involved in Software and Hardware (WISH).
