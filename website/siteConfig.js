@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Melina Lopez', // Title for your website.
     tagline: 'Computer Science master\'s student at Cal Poly SLO with a curiosity and passion for web development/design, UI/UX, computer graphics, and game development/design.',
-    profilePhoto: 'img/DSC01014_Original.jpg',
+    profilePhoto: 'img/headshot1.jpg',
     url: 'https://Melinal23.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
