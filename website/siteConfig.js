@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'melinalopez21',
-        twitter: '',
         github: 'Melinal23',
     },
 
