@@ -10,11 +10,11 @@ title: About
 1. Programming with innovation, quality, equity, ethical tech in mind.
 1. A fun fact about me is I like to examine pieces of media (i.e. movies and music) with the purpose of understanding and appreciating the technical features and roles it take to actualize these pieces that have the ability to evoke strong emotions in audiences.
 
-## Current Role
+## Current Role 👩🏽‍💻
 
 Software Engineering Intern at Salesforce working remotely in southern california.
 
-## Recognitions
+## Recognitions 🎖
 
 - Outstanding Woman in Engineering Award Nominee (Spring 2021)
 - Dean’s List (Spring 2021)
