@@ -3,9 +3,9 @@ id: projects
 title: Projects
 ---
 
-##The Psyche Journey
+## The Psyche Journey 
 
-#Description:
+# Description:
 
 Interactive fiction game developed using Inform 7.
 
@@ -14,4 +14,4 @@ The purpose of The Psyche Journey is to take the player on an adventure through 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![](./assets/rosemary.png)
