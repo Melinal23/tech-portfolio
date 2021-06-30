@@ -5,7 +5,7 @@ title: Projects
 
 ## The Psyche Journey 
 
-# Description:
+### Description:
 
 Interactive fiction game developed using Inform 7.
 
