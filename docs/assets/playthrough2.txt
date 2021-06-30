@@ -1,0 +1,46 @@
+listen
+think
+think
+wait
+examine (dim) light
+examine glass case
+go east
+look at ceiling
+listen
+examine display case
+examine bookcase
+read Bible (x3)
+talk to Mom
+take paper
+examine paper
+unlock case with passcode
+open case
+examine balancing scale
+examine Name
+go west 
+go north 
+examine desk
+take study guides
+talk to Kevin
+examine dresser
+examine trophy
+look inside trophy
+take soccer game
+examine soccer game
+go south
+go west
+examine table
+look at crack
+take key
+unlock chest with key
+open chest
+take hair clip
+examine hair clip
+examine Loved one
+talk to Eros
+go east
+open glass case
+put Loved one in case
+put Name in case
+put Soccer game in case
+*** The End ***
