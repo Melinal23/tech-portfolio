@@ -5,7 +5,7 @@ title: Projects
 
 ## The Psyche Journey 
 
-![](./assets/Cover.png){:height="50%" width="50%"}
+<img src="./assets/Cover.png" width="150" height="150">
 
 **Description**
 
