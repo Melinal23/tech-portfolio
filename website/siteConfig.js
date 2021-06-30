@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Melina Lopez', // Title for your website.
-    tagline: 'Computer Engineering student at Cal Poly SLO with a curiosity and passion for innovation, programming, optimizing solutions, and delivering clean, tested, and high-quality code to clients and/or end-users.',
+    tagline: 'Computer Science master\'s student at Cal Poly SLO with a curiosity and passion for web development/design, UI/UX, computer graphics, and game development/design.',
     profilePhoto: 'img/headshot.jpeg',
     url: 'https://Melinal23.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
