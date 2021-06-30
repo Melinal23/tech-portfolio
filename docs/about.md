@@ -16,7 +16,7 @@ Software Engineering Intern at Salesforce working remotely in southern californi
 
 ## Recognitions
 
-- Outstanding Woman in Engineering Award Nominee	  						                                    Spring 2021
-- Dean’s List											                                                                  Spring 2021
-- Adele Alessio Scholarship Endowment Fund - Computer Programming and Engineering Recipient 	      Fall 2020
-- President’s Honors List										                                                        Spring 2019
+- Outstanding Woman in Engineering Award Nominee (Spring 2021)
+- Dean’s List (Spring 2021)
+- Adele Alessio Scholarship Endowment Fund - Computer Programming and Engineering Recipient (Fall 2020)
+- President’s Honors List (Spring 2019)
