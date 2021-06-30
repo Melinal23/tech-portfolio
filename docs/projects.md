@@ -7,8 +7,6 @@ title: Projects
 
 <img src="./assets/Cover.png" align="left" width="200" height="200">
 
-
-
 **Description**
 
 Interactive fiction game developed using Inform7.
