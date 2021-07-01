@@ -47,10 +47,24 @@ Developed with a partner using Greenfoot and Java.
 
 ## A Journey into the Pride Lands of Africa
 
+<img src="./assets/Cover.png" width="200" height="200">
+<img src="./assets/Cover.png" width="200" height="200">
+
 **Description**
 
 Recreated The Lion King’s opening scene using OpenGL, C++, and Blender. 
 
-
+Observe the animals of the Pride Lands of Africa gather around the Pride Rock to welcome their new prince of the land, Simba!
 
 Incorporated the following graphics concepts: skybox, height mapping + procedural mapping, hierarchical limb movement, normal mapping, VAOs/VBOs, billboards, textures, diffuse and Specular lighting, and frame buffer.
+
+Controls:
+
+q - look up
+e - look down
+w - move forward
+a - look left
+s - move backwards
+d - look right
+
+
