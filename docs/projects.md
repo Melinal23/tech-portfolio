@@ -48,6 +48,7 @@ Developed with a partner using Greenfoot and Java.
 ## A Journey into the Pride Lands of Africa
 
 ![](./assets/sc1.PNG)
+
 ![](./assets/sc2.PNG)
 
 **Description**
