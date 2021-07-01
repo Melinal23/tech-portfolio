@@ -52,6 +52,14 @@ In the first level, the selfless turtle, Trembly, meets a mama bird who lost her
 
 Responsibilites: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
 
+## The Paint Mage 
+
+**Description**
+
+## Dog Game
+
+**Description**
+
 ## A Journey into the Pride Lands of Africa
 
 ![](./assets/sc1.PNG) 
