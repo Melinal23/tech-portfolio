@@ -52,13 +52,23 @@ In the first level, the selfless turtle, Trembly, meets a mama bird who lost her
 
 Responsibilites: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
 
+[Download Project](https://drive.google.com/file/d/1HjEmGW_VUPCQwsGdnfhfNohku7xzF9mn/view?usp=sharing) 
+
 ## The Paint Mage 
 
 **Description**
 
-## Dog Game
+## Pawsome Adventure
+
+
 
 **Description**
+
+Developed with Unity 3D and C#.
+
+In this cute adventure game you play a dog who is ecstatic to collect bones! Run around the home collecting as many bones as you can before time runs out!
+
+[Play Here](https://play.unity.com/mg/other/pawsome-adventure) 
 
 ## A Journey into the Pride Lands of Africa
 
