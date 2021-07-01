@@ -14,11 +14,11 @@ Interactive fiction game developed using Inform7.
 
 You are at one of your soccer games, which has 5 minutes left on the clock, thus inducing high stress and nervousness from you. You are on the field waiting for the ball to be passed to you when all of a sudden you find yourself in a world unknown to you. When you wake up in this world you lack memory of what happened, who you are, and other memories. It is your mission to recover three lost memories in order to fully remember what occurred and get back to your life.
 
-<a href="./assets/The Psyche Journey.zblorb" download>Game</a> (.zblorb)
+<a href="./assets/The Psyche Journey.zblorb" download>Download Game</a> (.zblorb)
 
-<a href="./assets/playthrough.txt" download>Playthrough</a>
+<a href="./assets/playthrough.txt" download>Download Playthrough</a>
 
-<a href="./assets/playthrough2.txt" download>Playthrough I</a>
+<a href="./assets/playthrough2.txt" download>Download Playthrough I</a>
 
 
 ## Pot It Like It's Hot! 
@@ -67,4 +67,4 @@ a - look left
 s - move backwards
 d - look right
 
-<a href="./assets/The Psyche Journey.zblorb" download>Download Source Code Here</a> (.zblorb)
+<a href="./assets/lab terrain.sln" download>Download Game</a> (.zblorb)
