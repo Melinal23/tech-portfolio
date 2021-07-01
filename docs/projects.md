@@ -47,8 +47,8 @@ Developed with a partner using Greenfoot and Java.
 
 ## A Journey into the Pride Lands of Africa
 
-<img src="./assets/Cover.png" width="200" height="200">
-<img src="./assets/Cover.png" width="200" height="200">
+<img src="./assets/sc1.PNG" align="left" width="200" height="200">
+<img src="./assets/sc2.PNG" align="right" width="200" height="200">
 
 **Description**
 
@@ -67,4 +67,4 @@ a - look left
 s - move backwards
 d - look right
 
-
+<a href="./assets/The Psyche Journey.zblorb" download>Download Source Code Here</a> (.zblorb)
