@@ -40,16 +40,21 @@ My contributions: Title Screen, Home Scene, Level 2, pause menu, Patrolling Plan
 
 ## Trembly, The Selfless Turtle 
 
+![](./assets/sc1.PNG)
 
 **Description**
 
 Developed with a partner using Greenfoot and Java.
 
+Trembly is a timid and fearful turtle who hides in his shell when he encounters a scary situation or needs protection. Not only that, but Trembly is extremely selfless and helpful, so much, that he is willing to face his fears to help other animals in need. This makes him brave. 
+
+In the first level, the selfless turtle, Trembly, meets a mama bird who lost her egg. She is in desperation because she cannot go find the egg herself since she needs to stay at the nest to guard it. Therefore, she kindly asks Trembly if he would go looking for and retrieve her egg for her. Trembly is hesitant because he doesn’t like exploring new and uncertain territories and is scared of heights and falling, but he realizes that if he doesn’t help mama bird, her egg will be lost forever... and so the journey begins!
+
+Responsibilites: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
+
 ## A Journey into the Pride Lands of Africa
 
-![](./assets/sc1.PNG)
-
-![](./assets/sc2.PNG)
+![](./assets/trembly1) ![](./assets/trembly3) ![](./assets/trembly2)
 
 **Description**
 
