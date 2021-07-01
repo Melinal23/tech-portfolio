@@ -23,7 +23,7 @@ You are at one of your soccer games, which has 5 minutes left on the clock, thus
 
 ## Pot It Like It's Hot! 
 
-<video controls="true" allowfullscreen="true">
+<video controls="true" allowfullscreen="true" width="500" height="500">
   <source src="./assets/PotItDemo.mp4" type="video/mp4">
 </video>
 
