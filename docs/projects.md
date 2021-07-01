@@ -37,6 +37,9 @@ In a world where mutated plants are endangering lives everywhere, it is up to yo
 
 My contributions: Title Screen, Home Scene, Level 2, pause menu, Patrolling Plant enemy, playerController script, and player animations.
 
+[Download and Play](https://drive.google.com/file/d/1IkLedZb090gSS5HqQvr_WpTelJ7WJUmV/view?usp=sharing) (Windows) 
+
+[Download and Play](https://drive.google.com/file/d/1J3K3B0CMACGYQ8FxEUIBpnCziFAJ2_U7/view?usp=sharing) (Mac)
 
 ## Trembly, The Selfless Turtle 
 
@@ -52,7 +55,7 @@ In the first level, the selfless turtle, Trembly, meets a mama bird who lost her
 
 Responsibilites: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
 
-[Download Project](https://drive.google.com/file/d/1HjEmGW_VUPCQwsGdnfhfNohku7xzF9mn/view?usp=sharing) 
+[Download Project](https://drive.google.com/file/d/1HjEmGW_VUPCQwsGdnfhfNohku7xzF9mn/view?usp=sharing)
 
 ## The Paint Mage 
 
@@ -124,6 +127,3 @@ d - look right
 
 
 **More coming soon...**
-
-
-                                                   
