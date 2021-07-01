@@ -40,7 +40,7 @@ My contributions: Title Screen, Home Scene, Level 2, pause menu, Patrolling Plan
 
 ## Trembly, The Selfless Turtle 
 
-![](./assets/trembly1.png) ![](./assets/trembly3.png) ![](./assets/trembly2.png)
+![](./assets/trembly1.png)  ![](./assets/trembly3.png)  ![](./assets/trembly2.png)
 
 **Description**
 
