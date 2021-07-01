@@ -62,6 +62,8 @@ Responsibilites: Finding the visuals for the game, including backgrounds, music,
 
 **Description**
 
+In this top-down dungeon crawler game, you control a Paint Mage who finds themself at the bottom of a dungeon after a devastating betrayal. Your mission: draw tools with magical colored paint you find along the way, and journey to reach the top of the dungeon's tower. Defeat your back-stabbing apprentice and get back your rightful title!
+
 ## Pawsome Adventure
 
 ![](./assets/pawsomesc.png)
@@ -93,10 +95,15 @@ Incorporated the following graphics concepts: skybox, height mapping + procedura
 Controls:
 
 q - look up
+
 e - look down
+
 w - move forward
+
 a - look left
+
 s - move backwards
+
 d - look right
 
 <a href="./assets/lab terrain.sln" download>Download</a> (.sln)
