@@ -68,7 +68,8 @@ Developed with Unity 3D and C#.
 
 In this cute adventure game you play a dog who is ecstatic to collect bones! Run around the home collecting as many bones as you can before time runs out!
 
-[Play](https://play.unity.com/mg/other/pawsome-adventure) 
+[Play Game](https://play.unity.com/mg/other/pawsome-adventure) 
+
 [Download Project](https://drive.google.com/file/d/1TuPdTqW82jYdvK3a9fePkjPId6NxnBHY/view?usp=sharing) 
 
 ## A Journey into the Pride Lands of Africa
