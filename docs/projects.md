@@ -55,6 +55,7 @@ Responsibilites: Finding the visuals for the game, including backgrounds, music,
 ## A Journey into the Pride Lands of Africa
 
 ![](./assets/sc1.PNG) 
+
 ![](./assets/sc2.PNG)
 
 **Description**
