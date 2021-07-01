@@ -29,10 +29,28 @@ You are at one of your soccer games, which has 5 minutes left on the clock, thus
 
 **Description**
 
-Developed with a team using Unity 2D and C#
+Developed with a team using Unity 2D and C#.
 
 One evening by the fire, grandpa is telling you the story of farmers. Your purpose… your mission… as farmers is to save good plants and allow them to prosper in farms.
 
 In a world where mutated plants are endangering lives everywhere, it is up to you, the brave farmer, to save the saplings that have not yet turned and bring them back to the farm to nurture. 
 
 My contributions: Title Screen, Home Scene, Level 2, pause menu, Patrolling Plant enemy, playerController script, and player animations.
+
+
+## Trembly, The Selfless Turtle 
+
+
+**Description**
+
+Developed with a partner using Greenfoot and Java.
+
+## A Journey into the Pride Lands of Africa
+
+**Description**
+
+Recreated The Lion King’s opening scene using OpenGL, C++, and Blender. 
+
+
+
+Incorporated the following graphics concepts: skybox, height mapping + procedural mapping, hierarchical limb movement, normal mapping, VAOs/VBOs, billboards, textures, diffuse and Specular lighting, and frame buffer.
