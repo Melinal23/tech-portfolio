@@ -67,4 +67,4 @@ a - look left
 s - move backwards
 d - look right
 
-<a href="./assets/lab terrain.sln" download>Download Game</a> (.sln)
+<a href="./assets/lab terrain.sln" download>Download</a> (.sln)
