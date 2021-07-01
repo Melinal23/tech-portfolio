@@ -64,6 +64,8 @@ Responsibilites: Finding the visuals for the game, including backgrounds, music,
 
 In this top-down dungeon crawler game, you control a Paint Mage who finds themself at the bottom of a dungeon after a devastating betrayal. Your mission: draw tools with magical colored paint you find along the way, and journey to reach the top of the dungeon's tower. Defeat your back-stabbing apprentice and get back your rightful title!
 
+[Download and Play](https://agreafel.itch.io/paint-mage)
+
 ## Pawsome Adventure
 
 ![](./assets/pawsomesc.png)
