@@ -107,3 +107,5 @@ s - move backwards
 d - look right
 
 <a href="./assets/lab terrain.sln" download>Download</a> (.sln)
+
+[Download Project](https://drive.google.com/file/d/1Mds4g30hMjVAFWAGV635GqDiPlEo0h_b/view?usp=sharing)
