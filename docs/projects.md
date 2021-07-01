@@ -57,7 +57,7 @@ Responsibilites: Finding the visuals for the game, including backgrounds, music,
 ## The Paint Mage 
 
 <video controls="true" allowfullscreen="true" width="500">
-  <source src="./assets/paintmageplay.mp4" type="video/mp4" width="500">
+  <source src="./assets/pagemageplay.mp4" type="video/mp4" width="500">
 </video>
 
 **Description**
