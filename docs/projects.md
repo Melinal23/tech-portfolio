@@ -23,7 +23,7 @@ You are at one of your soccer games, which has 5 minutes left on the clock, thus
 
 ## Pot It Like It's Hot! 
 
-<video controls="true" autoplay="false" allowfullscreen="true" width="500">
+<video controls="true" allowfullscreen="true" width="500">
   <source src="./assets/PotItDemo.mp4" type="video/mp4" width="500">
 </video>
 
@@ -47,8 +47,8 @@ Developed with a partner using Greenfoot and Java.
 
 ## A Journey into the Pride Lands of Africa
 
-<img src="./assets/sc1.PNG" align="left" width="200" height="200">
-<img src="./assets/sc2.PNG" align="right" width="200" height="200">
+<img src="./assets/sc1.PNG" width="300" height="300">
+<img src="./assets/sc2.PNG" width="300" height="300">
 
 **Description**
 
