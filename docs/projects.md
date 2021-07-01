@@ -40,7 +40,7 @@ My contributions: Title Screen, Home Scene, Level 2, pause menu, Patrolling Plan
 
 ## Trembly, The Selfless Turtle 
 
-![](./assets/sc1.PNG)
+![](./assets/trembly1) ![](./assets/trembly3) ![](./assets/trembly2)
 
 **Description**
 
@@ -54,7 +54,8 @@ Responsibilites: Finding the visuals for the game, including backgrounds, music,
 
 ## A Journey into the Pride Lands of Africa
 
-![](./assets/trembly1) ![](./assets/trembly3) ![](./assets/trembly2)
+![](./assets/sc1.PNG) 
+![](./assets/sc2.PNG)
 
 **Description**
 
