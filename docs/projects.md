@@ -12,7 +12,7 @@ title: Projects
 
 Interactive fiction game developed using Inform7.
 
-You are at one of your soccer games, which has 5 minutes left on the clock, thus inducing high stress and nervousness from you. You are on the field waiting for the ball to be passed to you when all of a sudden you find yourself in a world unknown to you. When you wake up in this world you lack memory of what happened, who you are, and other memories. It is your mission to recover three lost memories in order to fully remember what occurred and get back to your life.
+You are at one of your soccer games, which has 5 minutes left on the clock, thus inducing high stress and nervousness from you. You are on the field waiting for the ball to be passed to you when all of a sudden you find yourself in a world unknown to you. When you wake up in this world you lack memory of what happened, who you are, and other memories. It is your mission to recover three lost memories to fully remember what occurred and get back to your life.
 
 <a href="./assets/The Psyche Journey.zblorb" download>Download Game</a> (.zblorb)
 
@@ -53,7 +53,7 @@ Trembly is a timid and fearful turtle who hides in his shell when he encounters 
 
 In the first level, the selfless turtle, Trembly, meets a mama bird who lost her egg. She is in desperation because she cannot go find the egg herself since she needs to stay at the nest to guard it. Therefore, she kindly asks Trembly if he would go looking for and retrieve her egg for her. Trembly is hesitant because he doesn’t like exploring new and uncertain territories and is scared of heights and falling, but he realizes that if he doesn’t help mama bird, her egg will be lost forever... and so the journey begins!
 
-Responsibilites: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
+Responsibilities: Finding the visuals for the game, including backgrounds, music, sound effects, and some NPC. Trembly’s collision detection with enemies and other harmful objects. Designing the layout of Level 3. Implemented Trembly’s health "bar".
 
 [Download Project](https://drive.google.com/file/d/1HjEmGW_VUPCQwsGdnfhfNohku7xzF9mn/view?usp=sharing)
 
@@ -79,7 +79,7 @@ In this top-down dungeon crawler game, you control a Paint Mage who finds themse
 
 Developed with Unity 3D and C#.
 
-In this cute adventure game you play a dog who is ecstatic to collect bones! Run around the home collecting as many bones as you can before time runs out!
+In this cute adventure game, you play a dog who is ecstatic to collect bones! Run around the home collecting as many bones as you can before time runs out!
 
 Controls:
 
