@@ -8,11 +8,11 @@ title: About
 1. Currently seeking full-time positions in front-end development and/or full-stack development.
 1. I am the Publicity Director for Women Involved in Software and Hardware (WISH).
 1. Programming with innovation, quality, equity, ethical tech in mind.
-1. A fun fact about me is I like to examine pieces of media (i.e. movies and music) with the purpose of understanding and appreciating the technical features and roles it take to actualize these pieces that have the ability to evoke strong emotions in audiences.
+1. A fun fact about me is I like to examine pieces of media (i.e. movies and music) to understanding and appreciating the technical features and roles it takes to actualize these pieces that have the ability to evoke strong emotions in audiences.
 
 ## Current Role 👩🏽‍💻
 
-Software Engineering Intern at Salesforce working remotely in southern california.
+Software Engineering Intern at Salesforce working remotely in southern California.
 
 ## Recognitions 🎖
 
